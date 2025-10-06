@@ -6,6 +6,7 @@
 
 
 
+karn eiei
 # aten teza
 
 # gan ten ten gan
