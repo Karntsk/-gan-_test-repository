@@ -7,6 +7,6 @@
 
 
 karn eiei
-# aten teza
+# prinf("aten");
 
 # gan ten ten gan
